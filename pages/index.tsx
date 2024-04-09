@@ -24,7 +24,7 @@ const Home: NextPage = () => {
                 in running Ethereum validators.
             </p>
 
-            <p className="my-8">
+            <p className="text-xl my-8">
                 You can delegate ETH to our EigenLayer operator{" "}
                 <a
                     target="_blank"
