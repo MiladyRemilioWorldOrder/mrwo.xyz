@@ -17,11 +17,11 @@ const Home: NextPage = () => {
                 The Milady Remilio World Order is running an EigenLayer operator
                 for the Remilia community. You can delegate to our EigenLayer
                 operator to earn Eigenlayer restaking rewards and help secure
-                the network. We are a group of developers who are
-                passionate about the Remilia community and the future of the
-                blockchain. We are committed to providing the best possible
-                service to our delegators. All operating members are well-versed
-                in running Ethereum validators.
+                the network. We are a group of developers who are passionate
+                about the Remilia community and the future of the blockchain. We
+                are committed to providing the best possible service to our
+                delegators. All operating members are well-versed in running
+                Ethereum validators.
             </p>
 
             <p className="text-xl my-8">
@@ -33,7 +33,8 @@ const Home: NextPage = () => {
                 >
                     here
                 </a>
-                .
+                . Any airdrop operators receive will be paid back to our
+                delegators.
             </p>
 
             <div className="my-8">
