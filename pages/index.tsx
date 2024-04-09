@@ -23,8 +23,21 @@ const Home: NextPage = () => {
                 service to our delegators. All operating members are well-versed
                 in running Ethereum validators.
             </p>
+
+            <p className="my-8">
+                You can delegate ETH to our EigenLayer operator{" "}
+                <a
+                    target="_blank"
+                    className="text-sky-600 underline hover:text-sky-500"
+                    href="https://app.eigenlayer.xyz/operator/0xfe58d62a6e545f08a159fcbf17fe9abef6ef0ebc"
+                >
+                    here
+                </a>
+                .
+            </p>
+
             <div className="my-8">
-                <h2 className="text-2xl font-semibold mb-4 text-center">
+                <h2 className="text-2xl font-semibold mb-8 text-center">
                     Operating Members
                 </h2>
 
@@ -41,7 +54,7 @@ const Home: NextPage = () => {
                         />
                         <div className="p-4">
                             <p className="font-bold">Tim Clancy</p>
-                            <p>
+                            <p className="mt-2">
                                 Developer and Ethereum maximalist who has
                                 contributed significantly to the Remilia sphere
                                 and community.
@@ -60,7 +73,7 @@ const Home: NextPage = () => {
                         />
                         <div className="p-4">
                             <p className="font-bold">Sayuki0x</p>
-                            <p>
+                            <p className="mt-2">
                                 Developer and long-time Remilia community member
                                 who has contributed to Sudoswap.
                             </p>
